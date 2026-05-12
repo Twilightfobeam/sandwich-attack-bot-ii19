@@ -1,4 +1,4 @@
-# 
+# automatic Executor for sandwich attack bot | back-running & price-impact-analysis is the best sandwich attack bot, featuring back-running and price-impact-analysis. Fast, smart,
 
 
 
